@@ -283,4 +283,24 @@ table {
   width: 500px;
   font-size: 14px;
   margin-top: 20px;
+  margin-bottom: 35px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+
+
+}
+
+.video {
+  display: block;
+}
+
+.video-cap {
+  
+  width: 600px;
+  margin: 0 auto;
+  color: rgb(54, 54, 54);
 }
