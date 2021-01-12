@@ -278,3 +278,9 @@ table {
 .heading {
   font-weight: 700;
 }
+
+#grid-footer {
+  width: 500px;
+  font-size: 14px;
+  margin-top: 20px;
+}
