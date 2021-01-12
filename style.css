@@ -193,7 +193,10 @@ table {
 
 .main-text {
    font-family: 'Times New Roman', Times, serif;
-   font-size: 1.25rem;
+   font-size: 1.45rem;
+   margin: 20px auto;
+   width: 600px;
+   
 }
 
 .title-image {
@@ -206,4 +209,24 @@ table {
     margin: auto;
     width: 1000px;
     color: #666;
+}
+
+.creator h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.creator {
+  margin: 50px auto;
+  margin-left: 41rem;
+  margin-bottom: 20px;
+}
+
+.text h2 {
+ margin: 20px auto;
+ width: 600px;
+ font-weight: 700;
+ font-size: 1.45rem;
 }
